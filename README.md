@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris.
 - 👀 I’m interested in Programming, Reverse Engineering and Music.
-- 🌱 I’m currently learning React as a Beginner Front-end Developer
+- 🌱 I’m currently learning React as a Junior Front-end Developer
 
 
 <!-- - 💞️ I’m looking to collaborate on bew different projects, anything would be cool.
